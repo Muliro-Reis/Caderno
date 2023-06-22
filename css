@@ -1,0 +1,37 @@
+td.mes {
+  border: 2px solid black;
+  padding-bottom: 130px;
+  padding-left: 65px;
+  padding-right: 65px;
+  text-align: center;
+}
+th {
+  border: 2px  solid black;
+  padding: 10px;
+}
+td.sem {
+  border: 2px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+body {
+  background-color: #fff;
+}
+#info {
+  background-color: #863;
+}
+#t {
+  background-color: #864;
+}
+table.mes {
+  background-color: #fff;
+}
+table.sem {
+  background-color: #844;
+}
+div {
+  border: 2px solid black;
+}
+table {
+  border: 3px solid black;
+}
